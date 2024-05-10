@@ -1,4 +1,8 @@
 ## Hey Ya'll, I'm Justin 
+I am a Full Stack Software Developer, graduating from App Academy's Web Development program.
+I love working with JavaScript, React/Redux, Python, and Flask. I am also experienced in HTML and CSS from past projects. Currently, I am working part time as a Software Engineering Assistant for my alma mater, App Academy, as well as volunteering my time as the Web Developer for The Brian Oneill Jr. Foundation. Outside of software engineering, I love sound design and music production, as well as playing action/puzzle games with my friends.
+
+  
 
 ## Languages:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
